@@ -1,0 +1,11 @@
+# ant
+
+<?xml version="1.0"?>
+
+<project name=Hello world project" default="info">
+
+<target name="info">
+     <echo>Hello world - welcome to Apache Ant!</echo>
+</target>
+
+</project>
